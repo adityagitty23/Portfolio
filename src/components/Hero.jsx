@@ -102,18 +102,21 @@ export default function Hero() {
             View Projects
           </a>
 
-          <button
-            className="
+         <button
+          onClick={() => window.open("/Aditya_Resume.pdf", "_blank")}
+          className="
             px-8 py-4
             rounded-2xl
             border
             border-white/10
             bg-white/5
             backdrop-blur-xl
-            "
-          >
-            Download Resume
-          </button>
+            hover:bg-white/10
+            transition
+          "
+        >
+          Download Resume
+        </button>
 
         </div>
       </motion.div>
