@@ -37,7 +37,7 @@ export default function Contact() {
 
         <div className="flex justify-center gap-4 flex-wrap mt-10">
           <a
-            href="mailto:yourmail@gmail.com"
+            href="adityakumar44187@gmail.com"
             className="
             flex items-center gap-2
             px-6 py-3
@@ -52,7 +52,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/adityagitty23"
             target="_blank"
             rel="noreferrer"
             className="
@@ -69,7 +69,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://linkedin.com/in/yourprofile"
+            href="https://www.linkedin.com/in/aditya-kumar-3290482b3"
             target="_blank"
             rel="noreferrer"
             className="
