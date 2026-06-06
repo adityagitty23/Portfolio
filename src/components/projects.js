@@ -13,7 +13,7 @@ const projects = [
     ],
     type: "desktop",
     image: "/projects/fake-review-agent.png",
-    github: "#",
+    github: "https://github.com/fakereviewsystem01-debug/Fake-Review-System",
     live: "https://fake-review-detection-agent.vercel.app/",
     category: "featured",
   },
