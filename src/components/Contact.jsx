@@ -37,7 +37,7 @@ export default function Contact() {
 
         <div className="flex justify-center gap-4 flex-wrap mt-10">
           <a
-            href="adityakumar44187@gmail.com"
+            href="mailto:adityakumar44187@gmail.com"
             className="
             flex items-center gap-2
             px-6 py-3
