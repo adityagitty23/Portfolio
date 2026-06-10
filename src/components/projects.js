@@ -113,9 +113,9 @@ const projects = [
 
   image: "/projects/starbit-qr-system.png",
 
-  github: "#",
+  github: "https://github.com/adityagitty23/StarBit/tree/main/star-cafe-demo",
 
-  live: "#",
+  live: "https://star-cafe-demo.vercel.app",
   category: "client",
 }
 
