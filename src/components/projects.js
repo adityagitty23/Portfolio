@@ -93,6 +93,32 @@ const projects = [
   category: "featured",
 },
 
+{
+  title: "StarBit QR Ordering System",
+
+  description:
+    "A modern QR-based restaurant ordering platform developed for StarBit Creative. Customers can scan a QR code, browse digital menus, add items to cart, place orders, and track order status. Restaurant owners manage orders, menus, and customer requests through a dedicated admin dashboard.",
+
+  tech: [
+    "React",
+    "Vite",
+    "Tailwind CSS",
+    "Flask",
+    "Python",
+    "REST API",
+    "Axios"
+  ],
+
+  type: "mobile",
+
+  image: "/projects/starbit-qr-system.png",
+
+  github: "#",
+
+  live: "#",
+  category: "client",
+}
+
 ];
 
 export default projects;
