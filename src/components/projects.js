@@ -93,23 +93,6 @@ const projects = [
   category: "featured",
 },
 
-  {
-    title: "KidLit AI",
-    description:
-      "An AI-powered children's storytelling platform with multilingual support, voice narration, quizzes, and personalized story generation.",
-    tech: [
-      "React",
-      "Flask",
-      "GPT-4.1",
-      "AI",
-      "TTS",
-    ],
-    type: "mobile",
-    image: "/projects/kidlit-ai.png",
-    github: "https://github.com/kidlitai01/KidLit-AI",
-    live: "https://kidlit-ai.vercel.app/",
-    category: "client",
-  },
 ];
 
 export default projects;
