@@ -117,6 +117,31 @@ const projects = [
 
   live: "https://star-cafe-demo.vercel.app",
   category: "client",
+},
+
+{
+  title: "StarBit Admin Dashboard",
+
+  description:
+    "A powerful restaurant management dashboard built for the StarBit QR Ordering System. Restaurant owners can manage orders, track statuses, handle customer requests, and monitor daily operations through a modern admin interface.",
+
+  tech: [
+    "React",
+    "Vite",
+    "Tailwind CSS",
+    "Flask",
+    "Python",
+    "REST API"
+  ],
+
+  type: "mobile",
+
+  image: "/projects/starbit-admin.png",
+
+  github: "https://github.com/adityagitty23/StarBit/tree/main/StarBit-Admin",
+
+  live: "https://starbit-admin.vercel.app/",
+  category: "client"
 }
 
 ];
